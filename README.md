@@ -17,17 +17,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-Set up role-based access to control agent permissions
+- Set up role-based access to control agent permissions
 
-Organize ticket flow using departments and teams
+- Organize ticket flow using departments and teams
 
-Configure agent and user accounts
+- Configure agent and user accounts
 
-Allow public ticket creation for unregistered users
+- Allow public ticket creation for unregistered users
 
-Apply SLA rules to manage ticket priority and response times
+- Apply SLA rules to manage ticket priority and response times
 
-Create help topics to route tickets correctly
+- Create help topics to route tickets correctly
 
 <h2>Configuration Steps</h2>
 
