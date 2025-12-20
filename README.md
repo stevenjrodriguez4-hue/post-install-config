@@ -54,6 +54,9 @@ This page can be accessed by going to Admin Panel → Agents → Departments and
 <img width="1029" height="478" alt="Screenshot 2025-12-19 174946" src="https://github.com/user-attachments/assets/0cdf0b43-95bc-4bd5-b9bc-9449d1bdb8d7" />
 </p>
 <p>
-Then, we can also create a team. For this example we will use Online Banking as one of the teams
+Okay, now we are creating a new team called Online Banking.
+Teams are used to group agents from different departments so they can work together on related tickets.
+
+This page can be accessed by going to Admin Panel → Agents → Teams and selecting Add New Team.
 </p>
 <br />
