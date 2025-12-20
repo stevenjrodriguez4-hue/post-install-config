@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img width="1035" height="554" alt="Screenshot 2025-12-19 161543" src="https://github.com/user-attachments/assets/05ffb1e2-e3e7-475d-ac3c-b01d0413be29" />
 </p>
 <p>
-First we are going to create a new role called Supreme Sysadmin. This role provides full permissions to manage users, settings, and tickets. It can be created by navigating to Admin Panel → Agents → Roles and selecting Add New Role, allowing proper control of user access.
+First we are going to create a new role called Supreme Admin. This role provides full permissions to manage users, settings, and tickets. It can be created by navigating to Admin Panel → Agents → Roles and selecting Add New Role, allowing proper control of user access.
 </p>
 <br />
 
