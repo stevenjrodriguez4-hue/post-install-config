@@ -32,10 +32,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1035" height="554" alt="image" src="https://github.com/user-attachments/assets/ccdee31f-dcb4-4ef8-8767-3edce9a46611" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First we are going to create a new role called Supreme Sysadmin. This role provides full permissions to manage users, settings, and tickets. It can be created by navigating to Admin Panel → Agents → Roles and selecting Add New Role, allowing proper control of user access.
 </p>
 <br />
 
