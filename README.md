@@ -35,7 +35,8 @@ First we are going to create a new role called Supreme Admin. This role provides
 <br />
 
 <p>
-<img width="800" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/2abda4fe-f410-42fd-b4a5-ae5967a266db" />
+<img width="1036" height="788" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/924dd9cd-55d2-4b96-ab61-ad788f08a50f" />
+
 </p>
 <p>
 Okay, now we are creating a new department called SysAdmins.
