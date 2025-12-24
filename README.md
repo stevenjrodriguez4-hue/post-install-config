@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img width="900" alt="Screenshot 2025-12-19 161543" src="https://github.com/user-attachments/assets/05ffb1e2-e3e7-475d-ac3c-b01d0413be29" />
+<img width="800" alt="Screenshot 2025-12-19 161543" src="https://github.com/user-attachments/assets/05ffb1e2-e3e7-475d-ac3c-b01d0413be29" />
 </p>
 <p>
 First we are going to create a new role called Supreme Admin. This role provides full permissions to manage users, settings, and tickets. It can be created by navigating to Admin Panel → Agents → Roles and selecting Add New Role, allowing proper control of user access.
@@ -35,7 +35,7 @@ First we are going to create a new role called Supreme Admin. This role provides
 <br />
 
 <p>
-<img width="900" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/2abda4fe-f410-42fd-b4a5-ae5967a266db" />
+<img width="800" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/2abda4fe-f410-42fd-b4a5-ae5967a266db" />
 </p>
 <p>
 Okay, now we are creating a new department called SysAdmins.
@@ -46,7 +46,7 @@ This page can be accessed by going to Admin Panel → Agents → Departments and
 <br />
 
 <p>
-<img width="900" alt="Screenshot 2025-12-19 174946" src="https://github.com/user-attachments/assets/0cdf0b43-95bc-4bd5-b9bc-9449d1bdb8d7" />
+<img width="800" alt="Screenshot 2025-12-19 174946" src="https://github.com/user-attachments/assets/0cdf0b43-95bc-4bd5-b9bc-9449d1bdb8d7" />
 </p>
 <p>
 Okay, now we are creating a new team called Online Banking.
@@ -57,7 +57,7 @@ This page can be accessed by going to Admin Panel → Agents → Teams and selec
 <br />
 
 <p>
-<img width="900" alt="Screenshot 2025-12-23 172745" src="https://github.com/user-attachments/assets/94135e09-f45e-4dc3-bc92-08a2e9a79577" />
+<img width="800" alt="Screenshot 2025-12-23 172745" src="https://github.com/user-attachments/assets/94135e09-f45e-4dc3-bc92-08a2e9a79577" />
 </p>
 <p>
 To configure agents (workers), go to Admin Panel → Agents → Add New. Fill in the agent’s name and email, then assign a role and department to define their permissions and responsibilities in osTicket.
@@ -65,7 +65,7 @@ To configure agents (workers), go to Admin Panel → Agents → Add New. Fill in
 <br />
 
 <p>
-<img width="900" alt="Screenshot 2025-12-23 174337" src="https://github.com/user-attachments/assets/6aa2d392-7dce-4752-b510-e3bfce4b3a83" />
+<img width="800" alt="Screenshot 2025-12-23 174337" src="https://github.com/user-attachments/assets/6aa2d392-7dce-4752-b510-e3bfce4b3a83" />
 </p>
 <p>
 To configure users (customers), navigate to Agent Panel → Users → Add New. Add users such as Karen and Ken by entering their basic details, including name and email address, so they can submit and track their support tickets.
