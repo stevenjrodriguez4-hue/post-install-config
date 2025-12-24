@@ -35,7 +35,7 @@ First we are going to create a new role called Supreme Admin. This role provides
 <br />
 
 <p>
-<img width="1036" height="788" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/924dd9cd-55d2-4b96-ab61-ad788f08a50f" />
+<img width="800" height="788" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/924dd9cd-55d2-4b96-ab61-ad788f08a50f" />
 
 </p>
 <p>
