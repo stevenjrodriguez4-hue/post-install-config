@@ -70,12 +70,9 @@ To configure agents (workers), go to Admin Panel → Agents → Add New. Fill in
 <br />
 
 <p>
-<img width="1036" height="788" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/2abda4fe-f410-42fd-b4a5-ae5967a266db" />
+<img width="878" height="645" alt="Screenshot 2025-12-23 174337" src="https://github.com/user-attachments/assets/6aa2d392-7dce-4752-b510-e3bfce4b3a83" />
 </p>
 <p>
-Okay, now we are creating a new department called SysAdmins.
-Departments are used to organize tickets and control which agents can view and manage them.
-
-This page can be accessed by going to Admin Panel → Agents → Departments and selecting Add New Department. Creating this department helps separate system administration tickets from other support requests and keeps ticket routing organized.
+To configure users (customers), navigate to Agent Panel → Users → Add New. Add users such as Karen and Ken by entering their basic details, including name and email address, so they can submit and track their support tickets.
 </p>
 <br />
