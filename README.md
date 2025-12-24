@@ -71,3 +71,22 @@ To configure agents (workers), go to Admin Panel → Agents → Add New. Fill in
 To configure users (customers), navigate to Agent Panel → Users → Add New. Add users such as Karen and Ken by entering their basic details, including name and email address, so they can submit and track their support tickets.
 </p>
 <br />
+
+<p>
+<img width="873" height="376" alt="Screenshot 2025-12-23 181218" src="https://github.com/user-attachments/assets/903edf59-b8f9-44b8-8e4e-0300b82839aa" />
+</p>
+<p>
+Okay, now we are configuring SLAs.
+From the Admin Panel → Manage → SLA, we create different severity level SLAs and assign proper grace periods and schedules to control response times.</p>
+<br />
+
+<p>
+<img width="861" height="530" alt="Screenshot 2025-12-23 182458" src="https://github.com/user-attachments/assets/f83a9481-8d93-49a5-8345-69c47ff0910d" />
+</p>
+<p>
+Okay, now we are creating help topics.
+These help topics guide users during ticket creation and help route tickets to the correct department. This page can be accessed through Admin Panel → Manage → Help Topics.
+
+This completes the post-install configuration of the osTicket helpdesk in a home lab environment.
+</p>
+<br />
