@@ -60,3 +60,22 @@ Teams are used to group agents from different departments so they can work toget
 This page can be accessed by going to Admin Panel → Agents → Teams and selecting Add New Team.
 </p>
 <br />
+
+<p>
+<img width="1030" height="944" alt="Screenshot 2025-12-23 172745" src="https://github.com/user-attachments/assets/94135e09-f45e-4dc3-bc92-08a2e9a79577" />
+</p>
+<p>
+To configure agents (workers), go to Admin Panel → Agents → Add New. Fill in the agent’s name and email, then assign a role and department to define their permissions and responsibilities in osTicket.
+</p>
+<br />
+
+<p>
+<img width="1036" height="788" alt="Screenshot 2025-12-19 164727" src="https://github.com/user-attachments/assets/2abda4fe-f410-42fd-b4a5-ae5967a266db" />
+</p>
+<p>
+Okay, now we are creating a new department called SysAdmins.
+Departments are used to organize tickets and control which agents can view and manage them.
+
+This page can be accessed by going to Admin Panel → Agents → Departments and selecting Add New Department. Creating this department helps separate system administration tickets from other support requests and keeps ticket routing organized.
+</p>
+<br />
